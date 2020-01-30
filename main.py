@@ -10,7 +10,7 @@ def reverse(y):
     else: 
         return reverse(y[1:]) + y[0] 
   
-y = "kite"
+y = "jog"
 print (y) 
 print (reverse(y)) 
 #https://www.geeksforgeeks.org/reverse-string-python-5-different-ways/
